@@ -18,9 +18,9 @@
 #define PER_SECOND (1000.0*1000*10)
 
 const wchar_t help[] = L"+-------+\n"\
-						"| WTIME |\n"\
-						"+-------+\n"\
-						"Usage: wtime [-ifilename -ofilename] <cmd> [arg1] [arg2] ...\n\n";
+			"| WTIME |\n"\
+			"+-------+\n"\
+			"Usage: wtime [-ifilename -ofilename] <cmd> [arg1] [arg2] ...\n\n";
 
 int MAIN(argc,argv)
 {
